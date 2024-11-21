@@ -1,5 +1,4 @@
-## Additional Documentation
-- [Extra Documentation](extra-documentation.md)
+
 
 # JavaScript Note
 
